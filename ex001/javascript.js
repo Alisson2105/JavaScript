@@ -1,0 +1,6 @@
+//window.prompt('Informe seu nome: ')
+prompt('Informe seu nome:')
+//window.alert('Olá!')
+alert('Olá!')
+//window.confirm('Está gostando de navegar no site?')
+confirm('Está gostando de navegar no site?') 
